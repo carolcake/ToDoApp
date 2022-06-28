@@ -17,3 +17,10 @@ class ViewController: UIViewController {
 
 }
 
+class ToDo
+{
+    var name = ""
+    var important = false
+    
+}
+
